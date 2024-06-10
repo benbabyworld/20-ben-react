@@ -18,7 +18,7 @@ const Home = () => {
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-200 p-4">
       <div className="text-center mb-8">
         <h1 className="text-4xl font-bold mb-2">Generation Thailand</h1>
-        <h1 className="text-4xl font-bold">Ben React Assessment</h1>
+        <h1 className="text-4xl font-bold">React Assessment</h1>
       </div>
       <div className="space-x-16 mb-8"> {/* Increased space between buttons */}
         <button
